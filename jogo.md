@@ -14,3 +14,6 @@ Começando:
 2. Amar.
 3. Ratoeira.
 4. Abismal.
+
+Regra5. Video explicativo no canal DrBeco bavezbukyr
+
