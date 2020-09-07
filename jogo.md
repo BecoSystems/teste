@@ -18,10 +18,14 @@ Começando:
 6. Aborrecer.
 7. Receio.
 8. Obrigada.
-9. Anda.
+9. Atencao.
+10. Anda
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
 
 Regra7. Divirta-se
+
+Regra8. Ao cair pular duas vezes
+
