@@ -20,6 +20,7 @@ Começando:
 8. Obrigada.
 9. Atencao.
 10. Anda
+11. Humano.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -31,3 +32,4 @@ Regra8. Ao cair pular duas vezes
 
 regra9. Não é permitido usar palavrão
 
+Regra10. A próxima palavra precisa se relacionar com a anterior.
