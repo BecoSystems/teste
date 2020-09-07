@@ -29,3 +29,5 @@ Regra7. Divirta-se
 
 Regra8. Ao cair pular duas vezes
 
+regra9. Não é permitido usar palavrão
+
