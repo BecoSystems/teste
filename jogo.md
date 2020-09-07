@@ -18,6 +18,7 @@ Começando:
 6. Aborrecer.
 7. Receio.
 8. Obrigada.
+9. Anda.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
