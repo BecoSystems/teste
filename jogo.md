@@ -14,6 +14,7 @@ Começando:
 2. Amar.
 3. Ratoeira.
 4. Abismal.
+5. Livraria.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
