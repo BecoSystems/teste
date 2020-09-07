@@ -17,6 +17,7 @@ Começando:
 5. Livraria.
 6. Aborrecer.
 7. Receio.
+8. Obrigada.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
