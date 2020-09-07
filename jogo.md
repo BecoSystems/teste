@@ -16,6 +16,7 @@ Começando:
 4. Abismal.
 5. Livraria.
 6. Aborrecer.
+7. Receio.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
