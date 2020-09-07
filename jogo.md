@@ -22,3 +22,4 @@ Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
 
+Regra7. Divirta-se
