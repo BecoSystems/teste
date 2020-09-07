@@ -15,6 +15,7 @@ Começando:
 3. Ratoeira.
 4. Abismal.
 5. Livraria.
+6. Aborrecer.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
