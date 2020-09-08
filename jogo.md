@@ -24,8 +24,8 @@ Começando:
 12. Orelha.
 13. Alegria.
 14. Acenar.
-15. Risada.
-16. Animação.
+15. Animação.
+16. Risada.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -47,4 +47,4 @@ Regra13. Não é permitido palavras compostas.
 
 Regra 14. Faça tia Denise pagar.
 
-Regra16. Aproveite o entretenimento!
+Regra15. Aproveite o entretenimento!
