@@ -24,7 +24,7 @@ Começando:
 12. Orelha.
 13. Alegria.
 14. Acenar.
-
+15. Risada.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
