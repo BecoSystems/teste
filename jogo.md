@@ -22,6 +22,7 @@ Começando:
 10. Anda
 11. Humano.
 12. Orelha.
+13. Alegria.
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
