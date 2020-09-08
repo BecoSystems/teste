@@ -40,3 +40,5 @@ Regra10. A próxima palavra precisa se relacionar com a anterior.
 Regra11. É preciso possuir a pedra filosofal para vencer o jogo.
 
 Regra12. O máximo de letras por palavra é 10.
+
+Regra13. Não é permitido palavras compostas.
