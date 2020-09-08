@@ -23,7 +23,8 @@ Começando:
 11. Humano.
 12. Orelha.
 13. Alegria.
-14. Animado.
+14. Acenar.
+15. Repetição.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -43,5 +44,6 @@ Regra12. O máximo de letras por palavra é 10.
 
 Regra13. Não é permitido palavras compostas.
 
+Regra 14. Faça tia Denise pagar.
 
-Regra14. Aproveite o entretenimento!
+Regra15. Aproveite o entretenimento!
