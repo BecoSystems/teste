@@ -28,6 +28,8 @@ Começando:
 16. Risada
 17. Alga.
 18. Atirar.
+19. Reagir.
+
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
