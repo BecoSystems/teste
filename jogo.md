@@ -25,7 +25,8 @@ Começando:
 13. Alegria.
 14. Acenar.
 15. Animação.
-16. Risada.
+16. Risada
+17. Alga.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
