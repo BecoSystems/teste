@@ -51,3 +51,5 @@ Regra 14. Faça tia Denise pagar.
 Regra15. Aproveite o entretenimento!
 
 Regra16. Não esquecer a letra maiuscula no inicio das palavras.
+
+Regra17. video excente
