@@ -27,6 +27,7 @@ Começando:
 15. Animação.
 16. Risada
 17. Alga.
+18. Atirar.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
