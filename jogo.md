@@ -59,3 +59,4 @@ Regra18. Faca o saci andar.
 
 Regra19. Coloque os animes em dia.
 
+Regra20. Hidratem-se. 
