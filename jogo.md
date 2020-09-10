@@ -32,6 +32,7 @@ Começando:
 20. Rico.
 21. Olho.
 22. Ontem.
+23. Mortadela.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
