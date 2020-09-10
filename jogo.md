@@ -31,6 +31,7 @@ Começando:
 19. Reagir.
 20. Rico.
 21. Olho.
+22. Ontem.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
