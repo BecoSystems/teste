@@ -1,4 +1,4 @@
-Jogo: Escreva uma palavra que comece com a ultima letra da ultima palavra da lista sem infrigir as regras abaixo.
+    Jogo: Escreva uma palavra que comece com a ultima letra da ultima palavra da lista sem infrigir as regras abaixo.
 
 Regra1. A nova palavra escrita não pode ser da mesma classe gramatical das ultimas duas palavras da lista.
 
@@ -33,6 +33,7 @@ Começando:
 21. Olho.
 22. Ontem.
 23. Mortadela.
+24. Avermelhar.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
