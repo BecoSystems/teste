@@ -34,6 +34,7 @@ Começando:
 22. Ontem.
 23. Mortadela.
 24. Avermelhar.
+25. Morto.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
