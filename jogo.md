@@ -29,7 +29,7 @@ Começando:
 17. Alga.
 18. Atirar.
 19. Reagir.
-
+20. Rico.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
