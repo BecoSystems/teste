@@ -30,6 +30,7 @@ Começando:
 18. Atirar.
 19. Reagir.
 20. Rico.
+21. Olho.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
