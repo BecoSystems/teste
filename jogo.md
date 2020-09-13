@@ -35,8 +35,9 @@ Começando:
 23. Mortadela.
 24. Avermelhar.
 25. Morto.
-26. Oracao.
-    
+26. Ocidental.
+27. localizar.
+28. Razao.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
