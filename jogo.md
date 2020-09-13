@@ -35,6 +35,7 @@ Começando:
 23. Mortadela.
 24. Avermelhar.
 25. Morto.
+    
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -69,3 +70,5 @@ Regra19. Coloque os animes em dia.
 Regra20. Hidratem-se. 
 
 Regra21. Passem alcool em gel
+
+Regra22. Use mascara
