@@ -35,6 +35,7 @@ Começando:
 23. Mortadela.
 24. Avermelhar.
 25. Morto.
+26. Oracao.
     
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
