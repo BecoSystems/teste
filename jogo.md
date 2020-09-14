@@ -36,6 +36,7 @@ Começando:
 24. Avermelhar.
 25. Morto.
 26. Oracao.
+27. Obstruir
     
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
@@ -73,3 +74,6 @@ Regra20. Hidratem-se.
 Regra21. Passem alcool em gel
 
 Regra22. Use mascara
+
+Regra23. Evite aglomeracoes.
+
