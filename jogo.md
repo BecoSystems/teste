@@ -36,7 +36,7 @@ Começando:
 24. Avermelhar.
 25. Morto.
 26. Oracao.
-    
+27. Ouvido.    
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
