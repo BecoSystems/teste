@@ -39,6 +39,36 @@ Começando:
 27. Ouvido
 28. Obstruir.   
 29. Relaxante.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
+30. Etiopia.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
