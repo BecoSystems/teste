@@ -38,6 +38,9 @@ Começando:
 26. Ocidental.
 27. localizar.
 28. Razao.
+29. Oracao.
+30. Obstruir
+    
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -74,3 +77,6 @@ Regra20. Hidratem-se.
 Regra21. Passem alcool em gel
 
 Regra22. Use mascara
+
+Regra23. Evite aglomeracoes.
+
