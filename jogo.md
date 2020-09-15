@@ -35,12 +35,23 @@ Começando:
 23. Mortadela.
 24. Avermelhar.
 25. Morto.
+<<<<<<< HEAD
 26. Ocidental.
 27. localizar.
 28. Razao.
 29. Oracao.
 30. Obstruir
     
+=======
+<<<<<<< HEAD
+26. Ocidental.
+27. localizar.
+28. Razao.
+=======
+26. Oracao.
+27. Ouvido.    
+>>>>>>> develop
+>>>>>>> 891f2b251c0e33c3c7f3bcf26cfb9c2f1fecb868
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
