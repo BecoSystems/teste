@@ -36,8 +36,12 @@ Começando:
 24. Avermelhar.
 25. Morto.
 26. Oracao.
+<<<<<<< HEAD
 27. Obstruir
     
+=======
+27. Ouvido.    
+>>>>>>> d5d57591684b9e717827a960fdd31847475eb162
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
