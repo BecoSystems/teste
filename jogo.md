@@ -37,7 +37,7 @@ Começando:
 25. Morto.
 26. Ocidental.
 27. localizar.
-28. Razao.=
+28. Razao.
 29. Oracao.
 30. Ouvido.    
 31. Obstruir.   
