@@ -35,14 +35,13 @@ Começando:
 23. Mortadela.
 24. Avermelhar.
 25. Morto.
-<<<<<<< HEAD
 26. Ocidental.
 27. localizar.
-28. Razao.
-=======
-26. Oracao.
-27. Ouvido.    
->>>>>>> develop
+28. Razao.=
+29. Oracao.
+30. Ouvido.    
+31. Obstruir.   
+32. Relaxante.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -78,4 +77,8 @@ Regra20. Hidratem-se.
 
 Regra21. Passem alcool em gel
 
-Regra22. Use mascara
+Regra22. Use mascara.
+
+Regra23. Evite aglomeracoes.
+
+Regra24. Se alimente adequadamente.
