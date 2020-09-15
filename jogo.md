@@ -37,7 +37,8 @@ Começando:
 25. Morto.
 26. Oracao.
 27. Ouvido
-28. Observar.   
+28. Obstruir.   
+29. Relaxante.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -73,6 +74,8 @@ Regra20. Hidratem-se.
 
 Regra21. Passem alcool em gel
 
-Regra22. Use mascara
+Regra22. Use mascara.
 
-Regra23. Se alimente adequadamente.
+Regra23. Evite aglomeracoes.
+
+Regra24. Se alimente adequadamente.
