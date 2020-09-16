@@ -47,6 +47,7 @@ Começando:
 28. Obstruir.   
 29. Relaxante.
 30. Etiopia.
+31. Agregar.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -87,3 +88,6 @@ Regra22. Use mascara.
 Regra23. Evite aglomeracoes.
 
 Regra24. Se alimente adequadamente.
+
+Regra25. Grite alto para receber uma dica sobre onde esta a pedra filosofal.
+
