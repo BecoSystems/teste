@@ -106,3 +106,5 @@ Regra30. Comecar sempre com o pe direito.
 Regra31. proibido editar sem antes dar pull.
 
 Regra32. manter distancia de uma linha entre cada regra.
+
+Regra33. Usem a imaginacao.
