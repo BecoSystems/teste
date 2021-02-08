@@ -80,4 +80,7 @@ Regra22. Use mascara.
 Regra23. Evite aglomeracoes.
 
 Regra24. Se alimente adequadamente.
+
 Regra25. se beber não dirija
+
+Regra26. leia todaas as regras
