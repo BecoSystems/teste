@@ -47,7 +47,11 @@ Começando:
 28. Obstruir.   
 29. Relaxante.
 30. Etiopia.
+<<<<<<< HEAD
 31. Agregar.
+=======
+31. Arbusto.
+>>>>>>> develop
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -89,5 +93,9 @@ Regra23. Evite aglomeracoes.
 
 Regra24. Se alimente adequadamente.
 
-Regra25. Grite alto para receber uma dica sobre onde esta a pedra filosofal.
+Regra25. se beber não dirija
+
+Regra26. leia todaas as regras
+
+Regra27. Apos escrever a palavra, e preciso dar um mortal para tras.
 
