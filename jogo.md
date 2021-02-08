@@ -102,3 +102,5 @@ Regra28. Apos contar ate 10, corra pela.
 Regra29. Se possuir a joia do poder, você pode escolher anular uma das regras.
 
 Regra30. Comecar sempre com o pe direito.
+
+Regra31. proibido editar sem antes dar pull.
