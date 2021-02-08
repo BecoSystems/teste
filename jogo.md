@@ -40,6 +40,7 @@ Começando:
 28. Obstruir.   
 29. Relaxante.
 30. Etiopia.
+31. Arbusto.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -84,3 +85,6 @@ Regra24. Se alimente adequadamente.
 Regra25. se beber não dirija
 
 Regra26. leia todaas as regras
+
+Regra27. Apos escrever a palavra, e preciso dar um mortal para tras.
+
