@@ -47,11 +47,8 @@ Começando:
 28. Obstruir.   
 29. Relaxante.
 30. Etiopia.
-<<<<<<< HEAD
 31. Agregar.
-=======
-31. Arbusto.
->>>>>>> develop
+32. Robusto
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
