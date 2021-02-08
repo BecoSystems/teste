@@ -90,3 +90,4 @@ Regra27. Apos escrever a palavra, e preciso dar um mortal para tras.
 
 Regra28. Apos contar ate 10, corra pela.
 
+Regra29. Se possuir a joia do poder, você pode escolher anular uma das regras.
