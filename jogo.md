@@ -99,3 +99,5 @@ Regra26. leia todaas as regras
 
 Regra27. Apos escrever a palavra, e preciso dar um mortal para tras.
 
+Regra28. Apos contar ate 10, corra pela.
+
