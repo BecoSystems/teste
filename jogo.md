@@ -49,6 +49,7 @@ Começando:
 30. Etiopia.
 31. Agregar.
 32. Robusto
+33. Observar.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -99,3 +100,5 @@ Regra27. Apos escrever a palavra, e preciso dar um mortal para tras.
 Regra28. Apos contar ate 10, corra pela.
 
 Regra29. Se possuir a joia do poder, você pode escolher anular uma das regras.
+
+Regra30. Comecar sempre com o pe direito.
