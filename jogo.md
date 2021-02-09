@@ -51,6 +51,7 @@ Começando:
 32. Robusto
 33. Observar.
 34. Raridade.
+35. Eficaz.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -111,3 +112,6 @@ Regra32. manter distancia de uma linha entre cada regra.
 Regra33. Usem a imaginacao.
 
 Regra34. Apenas sorrisos sao permitidos
+
+Regra35. Sempre olhar pra cima antes de dar git push.
+
