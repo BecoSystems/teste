@@ -57,6 +57,8 @@ Começando:
 38. Estimular.
 39. Rapido.
 40. Oceano.
+41. Oraculo.
+
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
