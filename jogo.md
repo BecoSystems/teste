@@ -52,6 +52,7 @@ Começando:
 33. Observar.
 34. Raridade.
 35. Eficaz.
+36. Zarabatana.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -115,3 +116,4 @@ Regra34. Apenas sorrisos sao permitidos
 
 Regra35. Sempre olhar pra cima antes de dar git push.
 
+Regra36. Seja humilde diante ao lorde Tramunik.
