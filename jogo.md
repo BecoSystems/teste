@@ -53,6 +53,7 @@ Começando:
 34. Raridade.
 35. Eficaz.
 36. Zarabatana.
+37. atrocidade.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
