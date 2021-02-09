@@ -119,3 +119,5 @@ Regra35. Sempre olhar pra cima antes de dar git push.
 Regra36. Seja humilde diante ao lorde Tramunik.
 
 Regra37. Espere o som da campainha antes de dar git clone
+
+Regra38. Pare apenas se o sinal estiver vermelho.
