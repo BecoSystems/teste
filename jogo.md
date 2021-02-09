@@ -55,6 +55,7 @@ Começando:
 36. Zarabatana.
 37. atrocidade.
 38. Estimular.
+39. Radiante.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
