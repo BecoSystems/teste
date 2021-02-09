@@ -58,6 +58,7 @@ Começando:
 39. Rapido.
 40. Oceano.
 41. Oraculo.
+42. Oculos.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -124,4 +125,6 @@ Regra35. Sempre olhar pra cima antes de dar git push.
 Regra36. Seja humilde diante ao lorde Tramunik.
 
 Regra37. Proibido usar drogas oferecidas por estranhos.
+
+Regra 38. Estude com moderação.
 
