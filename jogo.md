@@ -127,3 +127,4 @@ Regra37. Espere o som da campainha antes de dar git clone
 
 Regra37. Proibido usar drogas oferecidas por estranhos.
 
+Regra38. Proibido deixar um conflito sem solucao.
