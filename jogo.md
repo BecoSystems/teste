@@ -58,6 +58,7 @@ Começando:
 39. Rapido.
 40. Oceano.
 41. Oraculo.
+42. Ofuscar.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
