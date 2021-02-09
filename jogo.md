@@ -50,6 +50,7 @@ Começando:
 31. Agregar.
 32. Robusto
 33. Observar.
+34. Raridade.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -108,3 +109,5 @@ Regra31. proibido editar sem antes dar pull.
 Regra32. manter distancia de uma linha entre cada regra.
 
 Regra33. Usem a imaginacao.
+
+Regra34. Apenas sorrisos sao permitidos
