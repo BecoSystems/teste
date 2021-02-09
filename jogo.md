@@ -117,3 +117,5 @@ Regra34. Apenas sorrisos sao permitidos
 Regra35. Sempre olhar pra cima antes de dar git push.
 
 Regra36. Seja humilde diante ao lorde Tramunik.
+
+Regra37. Espere o som da campainha antes de dar git clone
