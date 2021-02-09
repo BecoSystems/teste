@@ -125,4 +125,4 @@ Regra36. Seja humilde diante ao lorde Tramunik.
 
 Regra37. Proibido usar drogas oferecidas por estranhos.
 
-
+Regra38. Proibido deixar um conflito sem solucao.
