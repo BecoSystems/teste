@@ -121,11 +121,7 @@ Regra35. Sempre olhar pra cima antes de dar git push.
 
 Regra36. Seja humilde diante ao lorde Tramunik.
 
-<<<<<<< HEAD
 Regra37. Espere o som da campainha antes de dar git clone
 
-Regra38. Pare apenas se o sinal estiver vermelho.
-=======
 Regra37. Proibido usar drogas oferecidas por estranhos.
 
->>>>>>> develop
