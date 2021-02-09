@@ -57,6 +57,8 @@ Começando:
 38. Estimular.
 39. Rapido.
 40. Oceano.
+41. Oraculo.
+
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
@@ -127,5 +129,9 @@ Regra37. Espere o som da campainha antes de dar git clone
 Regra38. Pare apenas se o sinal estiver vermelho.
 =======
 Regra37. Proibido usar drogas oferecidas por estranhos.
+
+<<<<<<< HEAD
+>>>>>>> develop
+=======
 
 >>>>>>> develop
