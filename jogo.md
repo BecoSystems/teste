@@ -54,7 +54,9 @@ Começando:
 35. Eficaz.
 36. Zarabatana.
 37. atrocidade.
-
+38. Estimular.
+39. Rapido.
+40. Oceano.
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
@@ -119,6 +121,11 @@ Regra35. Sempre olhar pra cima antes de dar git push.
 
 Regra36. Seja humilde diante ao lorde Tramunik.
 
+<<<<<<< HEAD
 Regra37. Espere o som da campainha antes de dar git clone
 
 Regra38. Pare apenas se o sinal estiver vermelho.
+=======
+Regra37. Proibido usar drogas oferecidas por estranhos.
+
+>>>>>>> develop
