@@ -61,6 +61,7 @@ Começando:
 42. Ofuscar.
 43. Resto.
 44. Obeso.
+45. Oculos.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -135,3 +136,5 @@ Regra39. Apos o termino das tarefas, va pular corda.
 Regra40. Espere o som da campainha para dar git clone
 
 Regra41. Pare apenas se o sinal estiver vermelho.
+
+Regra42. Respire antes de continuar.
