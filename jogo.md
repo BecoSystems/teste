@@ -144,3 +144,5 @@ Regra42. Respire antes de continuar.
 Regra43. Sempre de git pull antes de editar um arquivo.
 
 Regra44. Nao copie a regra do colega
+
+regra45. Nao de ordens aos amigos
