@@ -59,7 +59,8 @@ Começando:
 40. Oceano.
 41. Oraculo.
 42. Ofuscar.
-43. Resto. 
+43. Resto.
+44. Obeso.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -129,4 +130,6 @@ Regra37. Proibido usar drogas oferecidas por estranhos.
 
 Regra38. Proibido deixar um conflito sem solucao.
 
-Regra39. Espere o som da campainha antes de dar git clone
+Regra39. Apos o termino das tarefas, va pular corda.
+
+Regra40. Espere o som da campainha para dar git clone
