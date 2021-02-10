@@ -59,6 +59,7 @@ Começando:
 40. Oceano.
 41. Oraculo.
 42. Ofuscar.
+43. Resto. 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
