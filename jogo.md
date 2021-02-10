@@ -133,3 +133,5 @@ Regra38. Proibido deixar um conflito sem solucao.
 Regra39. Apos o termino das tarefas, va pular corda.
 
 Regra40. Espere o som da campainha para dar git clone
+
+Regra41. Pare apenas se o sinal estiver vermelho.
