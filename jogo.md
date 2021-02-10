@@ -58,6 +58,9 @@ Começando:
 39. Rapido.
 40. Oceano.
 41. Oraculo.
+42. Ofuscar.
+43. Resto.
+44. Obeso.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -123,15 +126,12 @@ Regra35. Sempre olhar pra cima antes de dar git push.
 
 Regra36. Seja humilde diante ao lorde Tramunik.
 
-<<<<<<< HEAD
-Regra37. Espere o som da campainha antes de dar git clone
-
-Regra38. Pare apenas se o sinal estiver vermelho.
-=======
 Regra37. Proibido usar drogas oferecidas por estranhos.
 
-<<<<<<< HEAD
->>>>>>> develop
-=======
+Regra38. Proibido deixar um conflito sem solucao.
 
->>>>>>> develop
+Regra39. Apos o termino das tarefas, va pular corda.
+
+Regra40. Espere o som da campainha para dar git clone
+
+Regra41. Pare apenas se o sinal estiver vermelho.
