@@ -60,7 +60,9 @@ Começando:
 41. Oraculo.
 42. Ofuscar.
 43. Resto.
-44. Oxente.
+44. Obeso.
+45. Oculos.
+46. Sair.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -129,3 +131,11 @@ Regra36. Seja humilde diante ao lorde Tramunik.
 Regra37. Proibido usar drogas oferecidas por estranhos.
 
 Regra38. Proibido deixar um conflito sem solucao.
+
+Regra39. Apos o termino das tarefas, va pular corda.
+
+Regra40. Espere o som da campainha para dar git clone
+
+Regra41. Pare apenas se o sinal estiver vermelho.
+
+Regra42. Respire antes de continuar.
