@@ -62,6 +62,8 @@ Começando:
 43. Resto.
 44. Obeso.
 45. Oculos.
+46. Sair.
+47. Restaurado.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -138,3 +140,6 @@ Regra40. Espere o som da campainha para dar git clone
 Regra41. Pare apenas se o sinal estiver vermelho.
 
 Regra42. Respire antes de continuar.
+
+Regra43. Sempre de git pull antes de editar um arquivo.
+
