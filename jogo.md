@@ -64,6 +64,7 @@ Começando:
 45. Oculos.
 46. Sair.
 47. Restaurado.
+48. Ornitorrinco.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
