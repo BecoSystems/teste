@@ -66,6 +66,7 @@ Começando:
 47. Restaurado.
 48. Ornitorrinco.
 49. Ontem
+50. Muito.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
