@@ -68,6 +68,8 @@ Começando:
 49. Ontem
 50. Muito.
 
+   
+
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
@@ -151,3 +153,5 @@ Regra44. Nao copie a regra do colega
 regra45. Nao de ordens aos amigos
 
 Regra46. Nao olhe as regras anteriores ou entao perde.
+
+Regra47. nao use a palavra "nao ".
