@@ -157,3 +157,5 @@ Regra46. Nao olhe as regras anteriores ou entao perde.
 Regra47. nao use a palavra "nao ".
 
 Regra 48. Nunca coloque toalhas molhadas nas janelas.
+
+Regra 49. Levante e abaixe antes de pensar.
