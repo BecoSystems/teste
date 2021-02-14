@@ -67,7 +67,7 @@ Começando:
 48. Ornitorrinco.
 49. Ontem
 50. Muito.
-
+51. Obrigada.
    
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
