@@ -68,7 +68,7 @@ Começando:
 49. Ontem
 50. Muito.
 51. Obrigada.
-   
+52. Amarrar.   
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -159,3 +159,5 @@ Regra47. nao use a palavra "nao ".
 Regra 48. Nunca coloque toalhas molhadas nas janelas.
 
 Regra 49. Levante e abaixe antes de pensar.
+
+Regra 50. Assista sempre todas as aulas.
