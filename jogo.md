@@ -69,6 +69,7 @@ Começando:
 50. Muito.
 51. Obrigada.
 52. Amarrar.   
+53. Ratoeira.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
