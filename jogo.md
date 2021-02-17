@@ -70,6 +70,7 @@ Começando:
 51. Obrigada.
 52. Amarrar.   
 53. Ratoeira.
+54. Ali.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -160,3 +161,5 @@ Regra47. nao use a palavra "nao ".
 Regra 48. Levante e abaixe antes de pensar
 
 Regra 49. Assista sempre todas as aulas.
+
+Regra 50. Uma boa ideia, se for beber me chame.
