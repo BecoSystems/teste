@@ -168,5 +168,8 @@ Regra 51. Uma boa ideia, se for beber me chame.
 
 Regra 52. Dormir e' sempre bom.
 
-Regra 53. Sempre que possivel olhe de longe.
+Regra 53. Maratonar suas series e filmes preferidos.
 
+Regra 54. Sempre adicione novas regras ao jogo
+
+Regra 55. Sempre jogar seus jogos favoritos.
