@@ -71,6 +71,7 @@ Começando:
 59. Amarrar.   
 60. Ratoeira.
 61. Ali.
+62. Imaginacao.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
