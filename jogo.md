@@ -167,3 +167,5 @@ Regra 50. Assista sempre todas as aulas.
 Regra 51. Uma boa ideia, se for beber me chame.
 
 Regra 52. Dormir e' sempre bom.
+
+Regra 53. Maratonar suas series e filmes preferidos.
