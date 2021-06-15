@@ -71,6 +71,7 @@ Começando:
 59. Amarrar.   
 60. Ratoeira.
 61. Ali.
+62. Indio.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -176,3 +177,6 @@ Regra 55. Sempre jogar seus jogos favoritos.
 Regra 56. Ze Vaqueiro eh muito bom.
 
 Regra57. Estude muito para as cadeiras do semestre.
+
+Regra58. Desconsidere as regras de 5 a 57 e faca apenas as palavras.
+
