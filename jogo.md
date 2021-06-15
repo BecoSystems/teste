@@ -174,3 +174,5 @@ Regra 54. Sempre adicione novas regras ao jogo
 
 Regra 55. Sempre jogar seus jogos favoritos.
 Regra 56. Ze Vaqueiro eh muito bom.
+
+Regra57. Estude muito para as cadeiras do semestre.
