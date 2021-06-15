@@ -173,3 +173,4 @@ Regra 53. Maratonar suas series e filmes preferidos.
 Regra 54. Sempre adicione novas regras ao jogo
 
 Regra 55. Sempre jogar seus jogos favoritos.
+Regra 56. Ze Vaqueiro eh muito bom.
