@@ -184,3 +184,4 @@ Regra57. Estude muito para as cadeiras do semestre.
 
 Regra58. Desconsidere as regras de 5 a 57 e faca apenas as palavras.
 
+Regra59. Siga o oposto da regra 36.
