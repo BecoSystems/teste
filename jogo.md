@@ -77,6 +77,7 @@ Começando:
 62. Indio.
 >>>>>>> develop
 
+
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
@@ -185,3 +186,4 @@ Regra57. Estude muito para as cadeiras do semestre.
 Regra58. Desconsidere as regras de 5 a 57 e faca apenas as palavras.
 
 Regra59. Siga o oposto da regra 36.
+Regra60. VEJA.
