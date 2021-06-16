@@ -71,8 +71,9 @@ Começando:
 59. Amarrar.   
 60. Ratoeira.
 61. Ali.
-62. Indio.
-63. Ovo.
+63. Imaginacao.
+64. Indio.
+65. Ovo.
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
@@ -161,9 +162,9 @@ Regra46. Nao olhe as regras anteriores ou entao perde.
 
 Regra47. nao use a palavra "nao ".
 
-Regra 48. Levante e abaixe antes de pensar
+Regra 48. Nunca coloque toalhas molhadas nas janelas.
 
-Regra 49. Assista sempre todas as aulas.
+Regra 49. Levante e abaixe antes de pensar.
 
 Regra 50. Assista sempre todas as aulas.
 
@@ -184,3 +185,5 @@ Regra58. Desconsidere as regras de 5 a 57 e faca apenas as palavras.
 
 Regra59. Siga o oposto da regra 36.
 Regra60. VEJA.
+
+Regra61. Nao fazer alteracoes direto no master. Use o develop e depois de merge no master.
