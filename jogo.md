@@ -72,6 +72,7 @@ Começando:
 60. Ratoeira.
 61. Ali.
 62. Indio.
+63. Ovo.
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
