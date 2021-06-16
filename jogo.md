@@ -74,7 +74,7 @@ Começando:
 63. Imaginacao.
 64. Indio.
 65. Ovo.
-
+66. Organizar
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -187,3 +187,5 @@ Regra59. Siga o oposto da regra 36.
 Regra60. VEJA.
 
 Regra61. Nao fazer alteracoes direto no master. Use o develop e depois de merge no master.
+
+Regra62. Nunca ignore a regra 61.
