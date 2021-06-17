@@ -72,7 +72,7 @@ Começando:
 60. Ratoeira.
 61. Ali.
 63. Imaginacao.
-64. Indio.
+64. Osso
 65. Ovo.
 66. Organizar
 
