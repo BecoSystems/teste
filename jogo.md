@@ -201,3 +201,5 @@ Regra 65. Nunca dê um rm no arquivo makefile!!
 Regra 66. Lembre-se da palavra magica!
 
 Regra 67: nao faça besteira no hydra e sempre der um git pull para fazer alteracao
+
+Regra 68. Leia os arquivos do dropbox atentamente.
