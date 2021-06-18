@@ -189,3 +189,5 @@ Regra60. VEJA.
 Regra61. Nao fazer alteracoes direto no master. Use o develop e depois de merge no master.
 
 Regra62. Nunca ignore a regra 61.
+
+Regra63. Nunca destrua o Hydra.
