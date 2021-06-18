@@ -198,3 +198,5 @@ Regra 64. Siga todas as regras de numeracao impar
 Regra 65. Nunca dê um rm no arquivo makefile!!
 
 Regra 66. Lembre-se da palavra magica!
+
+Regra 67: nao faça besteira no hydra e sempre der um git pull para fazer alteracao
