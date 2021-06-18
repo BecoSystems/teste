@@ -76,6 +76,7 @@ Começando:
 65. Ovo.
 66. Organizar
 67. Revolucionario
+68. Ostentar.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
