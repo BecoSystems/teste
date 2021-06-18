@@ -196,3 +196,5 @@ Regra63. Nunca destrua o Hydra.
 Regra 64. Siga todas as regras de numeracao impar
 
 Regra 65. Nunca dê um rm no arquivo makefile!!
+
+Regra 66. Lembre-se da palavra magica!
