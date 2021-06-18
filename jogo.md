@@ -193,4 +193,6 @@ Regra62. Nunca ignore a regra 61.
 
 Regra63. Nunca destrua o Hydra.
 
-Regra 64. Siga todas as regras de numeracao impar.
+Regra 64. Siga todas as regras de numeracao impar
+
+Regra 65. Nunca dê um rm no arquivo makefile!!
