@@ -203,3 +203,5 @@ Regra 66. Lembre-se da palavra magica!
 Regra 67: nao faça besteira no hydra e sempre der um git pull para fazer alteracao
 
 Regra 68. Leia os arquivos do dropbox atentamente.
+
+Regra 69. Nunca ignore este jogo.
