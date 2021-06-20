@@ -77,6 +77,7 @@ Começando:
 66. Organizar
 67. Revolucionario
 68. Ostentar.
+69. Rede
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
