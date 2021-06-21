@@ -71,13 +71,13 @@ Começando:
 59. Amarrar.   
 60. Ratoeira.
 61. Ali.
-63. Imaginacao.
-64. Osso
-65. Ovo.
-66. Organizar
-67. Revolucionario
-68. Ostentar.
-69. Rede
+62. Imaginacao.
+63. Osso
+64. Ovo.
+65. Organizar
+66. Revolucionario
+67. Ostentar.
+68. Rede
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
