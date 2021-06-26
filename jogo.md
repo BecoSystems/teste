@@ -78,6 +78,9 @@ Começando:
 66. Revolucionario
 67. Ostentar.
 68. Rede
+69. Exaustiva
+
+
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
