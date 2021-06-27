@@ -79,7 +79,7 @@ Começando:
 67. Ostentar.
 68. Rede
 69. Exaustiva
-
+70. Repousar
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
