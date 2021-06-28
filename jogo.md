@@ -209,3 +209,6 @@ Regra 67: nao faça besteira no hydra e sempre der um git pull para fazer altera
 Regra 68. Leia os arquivos do dropbox atentamente.
 
 Regra 69. Nunca ignore este jogo.
+
+Regra 70. Jogue o dado de 8 faces.
+
