@@ -80,6 +80,7 @@ Começando:
 68. Rede
 69. Exaustiva
 70. Repousar
+71. ratoeira
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
@@ -212,3 +213,4 @@ Regra 69. Nunca ignore este jogo.
 
 Regra 70. Jogue o dado de 8 faces.
 
+Regra 71. Leia Pai rico, pai pobre.
