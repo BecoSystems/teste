@@ -81,6 +81,7 @@ Começando:
 69. Exaustiva
 70. Repousar
 71. ratoeira
+72. Aluado
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
@@ -101,7 +102,7 @@ Regra12. O máximo de letras por palavra é 10.
 
 Regra13. Não é permitido palavras compostas.
 
-Regra 14. Faça tia Denise pagar.
+Regra14. Faça tia Denise pagar.
 
 Regra15. Aproveite o entretenimento!
 
@@ -169,28 +170,30 @@ Regra46. Nao olhe as regras anteriores ou entao perde.
 
 Regra47. nao use a palavra "nao ".
 
-Regra 48. Nunca coloque toalhas molhadas nas janelas.
+Regra48. Nunca coloque toalhas molhadas nas janelas.
 
-Regra 49. Levante e abaixe antes de pensar.
+Regra49. Levante e abaixe antes de pensar.
 
-Regra 50. Assista sempre todas as aulas.
+Regra50. Assista sempre todas as aulas.
 
-Regra 51. Uma boa ideia, se for beber me chame.
+Regra51. Uma boa ideia, se for beber me chame.
 
-Regra 52. Dormir e' sempre bom.
+Regra52. Dormir e' sempre bom.
 
-Regra 53. Maratonar suas series e filmes preferidos.
+Regra53. Maratonar suas series e filmes preferidos.
 
-Regra 54. Sempre adicione novas regras ao jogo
+Regra54. Sempre adicione novas regras ao jogo
 
-Regra 55. Sempre jogar seus jogos favoritos.
-Regra 56. Ze Vaqueiro eh muito bom.
+Regra55. Sempre jogar seus jogos favoritos.
+
+Regra56. Ze Vaqueiro eh muito bom.
 
 Regra57. Estude muito para as cadeiras do semestre.
 
 Regra58. Desconsidere as regras de 5 a 57 e faca apenas as palavras.
 
 Regra59. Siga o oposto da regra 36.
+
 Regra60. VEJA.
 
 Regra61. Nao fazer alteracoes direto no master. Use o develop e depois de merge no master.
@@ -199,18 +202,22 @@ Regra62. Nunca ignore a regra 61.
 
 Regra63. Nunca destrua o Hydra.
 
-Regra 64. Siga todas as regras de numeracao impar
+Regra64. Siga todas as regras de numeracao impar
 
-Regra 65. Nunca dê um rm no arquivo makefile!!
+Regra65. Nunca dê um rm no arquivo makefile!!
 
-Regra 66. Lembre-se da palavra magica!
+Regra66. Lembre-se da palavra magica!
 
-Regra 67: nao faça besteira no hydra e sempre der um git pull para fazer alteracao
+Regra67: nao faça besteira no hydra e sempre der um git pull para fazer alteracao
 
-Regra 68. Leia os arquivos do dropbox atentamente.
+Regra68. Leia os arquivos do dropbox atentamente.
 
-Regra 69. Nunca ignore este jogo.
+Regra69. Nunca ignore este jogo.
 
-Regra 70. Jogue o dado de 8 faces.
+Regra70. Jogue o dado de 8 faces.
 
-Regra 71. Leia Pai rico, pai pobre.
+Regra71. Leia Pai rico, pai pobre.
+
+Regra72. Eu quero dizer agora o oposto do que eu disse antes.
+
+
