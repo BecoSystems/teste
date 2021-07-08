@@ -82,6 +82,7 @@ Começando:
 70. Repousar
 71. ratoeira
 72. Aluado
+73. Jejuar
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
