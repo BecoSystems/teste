@@ -83,6 +83,7 @@ Começando:
 71. ratoeira
 72. Aluado
 73. Jejuar
+74. Rinoceronte
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
@@ -221,4 +222,5 @@ Regra71. Leia Pai rico, pai pobre.
 
 Regra72. Eu quero dizer agora o oposto do que eu disse antes.
 
+Regra73. Leia atentamente as últimas 72 regras
 
