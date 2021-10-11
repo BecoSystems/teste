@@ -84,6 +84,7 @@ Começando:
 72. Aluado
 73. Jejuar
 74. Rinoceronte
+75. Estudar
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
