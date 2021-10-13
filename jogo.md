@@ -85,7 +85,7 @@ Começando:
 73. Jejuar
 74. Rinoceronte
 75. Estudar
-
+76. Rei
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -225,3 +225,4 @@ Regra72. Eu quero dizer agora o oposto do que eu disse antes.
 
 Regra73. Leia atentamente as últimas 72 regras
 
+Regra74. Assita Rei Leão
