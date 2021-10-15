@@ -227,3 +227,8 @@ Regra73. Leia atentamente as últimas 72 regras
 
 Regra74. Assita Rei Leão
 
+<<<<<<< HEAD
+=======
+Regra75. Assista Shrek 2.
+
+>>>>>>> develop
