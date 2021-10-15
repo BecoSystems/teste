@@ -227,4 +227,3 @@ Regra73. Leia atentamente as últimas 72 regras
 
 Regra74. Assita Rei Leão
 
-Regra75. Jogar Breath of the Wild.
