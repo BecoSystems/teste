@@ -229,3 +229,5 @@ Regra74. Assita Rei Leão
 
 Regra75. Assista Shrek 2.
 
+Regra76. Assista Rei Leão 2.
+
