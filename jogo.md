@@ -226,3 +226,6 @@ Regra72. Eu quero dizer agora o oposto do que eu disse antes.
 Regra73. Leia atentamente as últimas 72 regras
 
 Regra74. Assita Rei Leão
+
+Regra75. Assista Shrek 2.
+
