@@ -231,3 +231,4 @@ Regra75. Assista Shrek 2.
 
 Regra76. Assista Rei Leão 2.
 
+Regra77. Assista anime enquanto faz atividade no hydra, confie no seu potencial.
