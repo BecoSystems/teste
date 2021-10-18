@@ -86,6 +86,7 @@ Começando:
 74. Rinoceronte
 75. Estudar
 76. Reii
+77. Inteligente.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -236,3 +237,5 @@ Regra77. Assista anime enquanto faz atividade no hydra, confie no seu potencial.
 Regra78. Jogar minish cap no tempo livre.
 
 Regra79. Alcance a pontuação máxima no akernaak.
+
+Regra80. Sempre que precisar, peça ajuda aos monitores.
