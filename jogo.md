@@ -85,7 +85,7 @@ Começando:
 73. Jejuar
 74. Rinoceronte
 75. Estudar
-76. Rei
+76. Reii
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -234,3 +234,5 @@ Regra76. Assista Rei Leão 2.
 Regra77. Assista anime enquanto faz atividade no hydra, confie no seu potencial.
 
 Regra78. Jogar minish cap no tempo livre.
+
+Regra79. Alcance a pontuação máxima no akernaak.
