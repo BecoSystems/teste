@@ -87,6 +87,14 @@ Começando:
 75. Estudar
 76. Reii
 77. Inteligente.
+78. exigir
+79. rinha
+80. afetuoso
+81. omitir
+82. representante
+83. empregada
+84. admitiu
+85. util
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -239,3 +247,7 @@ Regra78. Jogar minish cap no tempo livre.
 Regra79. Alcance a pontuação máxima no akernaak.
 
 Regra80. Sempre que precisar, peça ajuda aos monitores.
+
+Regra81. Vire vegano.
+
+Regra 82. Leia um livro, eu sei que você nunca fez isso.
