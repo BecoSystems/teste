@@ -95,6 +95,8 @@ Começando:
 83. empregada
 84. admitiu
 85. util
+86. ler
+
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -251,3 +253,5 @@ Regra80. Sempre que precisar, peça ajuda aos monitores.
 Regra81. Vire vegano.
 
 Regra 82. Leia um livro, eu sei que você nunca fez isso.
+
+Regra 83. Se possivel, leia mais de um.
