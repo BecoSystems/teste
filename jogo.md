@@ -96,7 +96,7 @@ Começando:
 84. admitiu
 85. util
 86. ler
-
+87. rato
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
