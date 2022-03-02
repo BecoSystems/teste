@@ -97,6 +97,7 @@ Começando:
 85. util
 86. ler
 87. rato
+88. Odeio
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
