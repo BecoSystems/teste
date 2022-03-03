@@ -99,6 +99,7 @@ Começando:
 87. rato
 88. Odeio
 89. Organizado.
+90. Ornamentar
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
