@@ -98,6 +98,7 @@ Começando:
 86. ler
 87. rato
 88. Odeio
+89. Organizado.
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -256,3 +257,5 @@ Regra81. Vire vegano.
 Regra 82. Leia um livro, eu sei que você nunca fez isso.
 
 Regra 83. Se possivel, leia mais de um.
+
+Regra 84. Assista uma série educativa.
