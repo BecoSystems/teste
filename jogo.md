@@ -260,3 +260,5 @@ Regra 82. Leia um livro, eu sei que você nunca fez isso.
 Regra 83. Se possivel, leia mais de um.
 
 Regra 84. Assista uma série educativa.
+
+Regra 85. Escute kpop enquanto programa.
