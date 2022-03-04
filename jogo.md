@@ -100,7 +100,7 @@ Começando:
 88. Odeio
 89. Organizado.
 90. Ornamentar
-
+91. Rachadura
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
@@ -261,4 +261,6 @@ Regra 83. Se possivel, leia mais de um.
 
 Regra 84. Assista uma série educativa.
 
-Regra 85. Escute kpop enquanto programa.
+Regra 85. Estude Ingles.
+
+Regra 86. Escute kpop enquanto programa.
