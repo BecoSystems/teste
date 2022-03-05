@@ -101,6 +101,7 @@ Começando:
 89. Organizado.
 90. Ornamentar
 91. Rachadura
+92. Atrasado
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
