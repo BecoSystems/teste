@@ -102,6 +102,7 @@ Começando:
 90. Ornamentar
 91. Rachadura
 92. Atrasado
+93.Sonegar
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
@@ -265,3 +266,4 @@ Regra 84. Assista uma série educativa.
 Regra 85. Estude Ingles.
 
 Regra 86. Escute kpop enquanto programa.
+Regra 87. Assista Procurando Nemo
