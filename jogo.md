@@ -273,3 +273,4 @@ Regra 87. Assista Procurando Nemo
 Regra 88. Revise as 87 regras anteriores
 Regra 89. Assista e revise o filme Revolution OS.
 Regra 90. Assista as aula.
+Regra 91. Cause conflitos e resolva-os
