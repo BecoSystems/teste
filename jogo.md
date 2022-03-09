@@ -104,8 +104,12 @@ Começando:
 92. Atrasado
 93. Sonegar
 94. Rifa
-95. Alienigena
- 
+95. socio.
+96. Oculos
+97. Enxergar
+98. Raramente
+96. Alienigena
+
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -274,7 +278,10 @@ Regra 87. Assista Procurando Nemo
 
 Regra 88. Revise as 87 regras anteriores
 Regra 89. Assista e revise o filme Revolution OS.
-Regra 90. Faça uma pipoquinha.
-
-
-
+Regra 90. Assista as aula.
+Regra 91. Cause conflitos e resolva-os
+Regra 92. Assista Monstros S.A          
+Regra 93. Revise as 88 regras anteriores
+Regra 94. Revise as 89 regras anteriores 
+Regra 95. Caso o castelo seja vermelho, entre pela porta dos fundos
+Regra 96. Faca uma pipoquinha 
