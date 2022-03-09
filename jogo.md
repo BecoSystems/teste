@@ -107,6 +107,7 @@ Começando:
 95. socio.
 96. Oculos
 97. Enxergar
+98. Raramente
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -273,6 +274,7 @@ Regra 85. Estude Ingles.
 Regra 86. Escute kpop enquanto programa.
 Regra 87. Assista Procurando Nemo
 
-Regra 88. Revise as 87 regras anteriores
+Regra 88. Assista Monstros S.A          
+
 Regra 89. Revise as 88 regras anteriores
 Regra 90. Revise as 89 regras anteriores 
