@@ -105,6 +105,10 @@ Começando:
 93. Sonegar
 94. Rifa
 95. socio.
+96. Oculos
+97. Enxergar
+98. Raramente
+
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
@@ -270,7 +274,14 @@ Regra 85. Estude Ingles.
 Regra 86. Escute kpop enquanto programa.
 Regra 87. Assista Procurando Nemo
 
+<<<<<<< HEAD
 Regra 88. Revise as 87 regras anteriores
 Regra 89. Assista e revise o filme Revolution OS.
 Regra 90. Assista as aula.
 Regra 91. Cause conflitos e resolva-os
+=======
+Regra 88. Assista Monstros S.A          
+
+Regra 89. Revise as 88 regras anteriores
+Regra 90. Revise as 89 regras anteriores 
+>>>>>>> develop
