@@ -278,3 +278,4 @@ Regra 88. Assista Monstros S.A
 
 Regra 89. Revise as 88 regras anteriores
 Regra 90. Revise as 89 regras anteriores 
+Regra 91. Caso o castelo seja vermelho, entre pela porta dos fundos
