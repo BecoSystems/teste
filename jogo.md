@@ -108,6 +108,8 @@ Começando:
 96. Oculos
 97. Enxergar
 98. Raramente
+96. Alienigena
+
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
@@ -283,5 +285,6 @@ Regra 92. Assista Monstros S.A
 Regra 93. Revise as 88 regras anteriores
 Regra 94. Revise as 89 regras anteriores 
 Regra 95. Caso o castelo seja vermelho, entre pela porta dos fundos
+Regra 96. Faca uma pipoquinha.
 
-Regra96. Nao repare na bagunca das ultimas 10 regras.
+Regra97. Nao repare na bagunca das ultimas 15 regras.
