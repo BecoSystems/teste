@@ -104,6 +104,9 @@ Começando:
 92. Atrasado
 93. Sonegar
 94. Rifa
+95. Alienigena
+ 
+
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
@@ -271,3 +274,7 @@ Regra 87. Assista Procurando Nemo
 
 Regra 88. Revise as 87 regras anteriores
 Regra 89. Assista e revise o filme Revolution OS.
+Regra 90. Faça uma pipoquinha.
+
+
+
