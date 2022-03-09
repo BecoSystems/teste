@@ -106,6 +106,7 @@ Começando:
 94. Rifa
 95. socio.
 96. Oculos
+97. Enxergar
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -274,3 +275,4 @@ Regra 87. Assista Procurando Nemo
 
 Regra 88. Revise as 87 regras anteriores
 Regra 89. Revise as 88 regras anteriores
+Regra 90. Revise as 89 regras anteriores 
