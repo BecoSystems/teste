@@ -109,6 +109,7 @@ Começando:
 97. Enxergar
 98. Raramente
 
+
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
@@ -282,3 +283,5 @@ Regra 92. Assista Monstros S.A
 Regra 93. Revise as 88 regras anteriores
 Regra 94. Revise as 89 regras anteriores 
 Regra 95. Caso o castelo seja vermelho, entre pela porta dos fundos
+
+Regra96. Nao repare na bagunca das ultimas 10 regras.
