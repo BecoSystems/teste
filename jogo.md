@@ -264,32 +264,32 @@ Regra80. Sempre que precisar, peça ajuda aos monitores.
 
 Regra81. Vire vegano.
 
-Regra 82. Leia um livro, eu sei que você nunca fez isso.
+Regra82. Leia um livro, eu sei que você nunca fez isso.
 
-Regra 83. Se possivel, leia mais de um.
+Regra83. Se possivel, leia mais de um.
 
-Regra 84. Assista uma série educativa.
+Regra84. Assista uma série educativa.
 
-Regra 85. Estude Inglês.
+Regra85. Estude Inglês.
 
-Regra 86. Escute kpop enquanto programa.
+Regra86. Escute kpop enquanto programa.
 
-Regra 87. Assista Procurando Nemo
+Regra87. Assista Procurando Nemo
 
-Regra 88. Revise as 87 regras anteriores.
+Regra88. Revise as 87 regras anteriores.
 
-Regra 89. Assista e revise o filme Revolution OS.
+Regra89. Assista e revise o filme Revolution OS.
 
-Regra 90. Assista as aula.
+Regra90. Assista as aula.
 
-Regra 91. Cause conflitos e resolva-os.
+Regra91. Cause conflitos e resolva-os.
 
-Regra 92. Assista Monstros S.A.        
+Regra92. Assista Monstros S.A.        
 
-Regra 93. Revise as 88 regras anteriores.
+Regra93. Revise as 88 regras anteriores.
 
-Regra 94. Revise as 89 regras anteriores.
+Regra94. Revise as 89 regras anteriores.
 
-Regra 95. Caso o castelo seja vermelho, entre pela porta dos fundos.
+Regra95. Caso o castelo seja vermelho, entre pela porta dos fundos.
 
 Regra96. Nao repare na bagunca das ultimas 10 regras.
