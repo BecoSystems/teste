@@ -293,3 +293,5 @@ Regra94. Revise as 89 regras anteriores.
 Regra95. Caso o castelo seja vermelho, entre pela porta dos fundos.
 
 Regra96. Nao repare na bagunca das ultimas 10 regras.
+
+Regra97. Não é bem uma regra, mais uma dica, brinque com alterações e resoluções de problemas dando commits, é bem legal.
