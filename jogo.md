@@ -282,7 +282,7 @@ Regra88. Revise as 87 regras anteriores.
 
 Regra89. Assista e revise o filme Revolution OS.
 
-Regra90. Assista as aula.
+Regra90. Assista as aulas.
 
 Regra91. Cause conflitos e resolva-os.
 
