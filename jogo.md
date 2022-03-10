@@ -309,6 +309,5 @@ Regra101. Não assista Star Wars
 
 Regra102. Pratique exercicios
 
-
 Regra 103. faca o co develop
 
