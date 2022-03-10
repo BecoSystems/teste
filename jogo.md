@@ -106,7 +106,7 @@ Começando:
 94. Rifa
 95. socio.
 96. Oculos
-97. Enxergar
+97. Solar
 98. Raramente
 96. Alienigena
 
