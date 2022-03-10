@@ -305,4 +305,6 @@ Regra99. Não é bem uma regra, mais uma dica, brinque com alterações e resolu
 
 Regra100. Pao com manteiga é muito bom
 
-Regra101. Não assista Star Wars 
+Regra101. Não assista Star Wars
+
+Regra102. Pratique exercicios
