@@ -309,10 +309,6 @@ Regra101. Não assista Star Wars
 
 Regra102. Pratique exercicios
 
-<<<<<<< HEAD
+
 Regra 103. faca o co develop
-=======
-Regra 88. Revise as 87 regras anteriores
-Regra 89. Revise as 88 regras anteriores.
-Regra 90. Teste
->>>>>>> develop
+
