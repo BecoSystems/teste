@@ -270,7 +270,7 @@ Regra 83. Se possivel, leia mais de um.
 
 Regra 84. Assista uma série educativa.
 
-Regra 85. Estude Ingles.
+Regra 85. Estude Inglês.
 
 Regra 86. Escute kpop enquanto programa.
 Regra 87. Assista Procurando Nemo
