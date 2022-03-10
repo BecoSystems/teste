@@ -108,7 +108,7 @@ Começando:
 96. oculos
 97. Solar
 98. Raramente
-99. Erroneamente`
+99. Erroneamente
 100. Espirro
 
 
