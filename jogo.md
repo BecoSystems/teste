@@ -1,4 +1,4 @@
-    Jogo: Escreva uma palavra que comece com a ultima letra da ultima palavra da lista sem infrigir as regras abaixo.
+		Jogo: Escreva uma palavra que comece com a ultima letra da ultima palavra da lista sem infrigir as regras abaixo.
 
 Regra1. A nova palavra escrita não pode ser da mesma classe gramatical das ultimas duas palavras da lista.
 
@@ -273,3 +273,4 @@ Regra 87. Assista Procurando Nemo
 Regra 88. Revise as 87 regras anteriores
 Regra 89. Revise as 88 regras anteriores.
 Regra 90. Teste
+Regra 100. co develop
