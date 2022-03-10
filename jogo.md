@@ -105,7 +105,7 @@ Começando:
 93. Sonegar
 94. Rifa
 95. socio.
-96. Oculos
+96. oculos
 97. Solar
 98. Raramente
 99. Erroneamente`
@@ -302,3 +302,6 @@ Regra97. Nao repare na bagunca das ultimas 15 regras.
 Regra98. Nao repare na bagunca das ultimas 10 regras.
 
 Regra99. Não é bem uma regra, mais uma dica, brinque com alterações e resoluções de problemas dando commits, é bem legal.
+
+Regra100. Pao com manteiga é muito bom
+
