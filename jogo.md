@@ -110,7 +110,7 @@ Começando:
 98. Raramente
 99. Erroneamente
 100. Espirro
-
+101. Orquestra
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
@@ -309,10 +309,6 @@ Regra101. Não assista Star Wars
 
 Regra102. Pratique exercicios
 
-Regra 103. faca o co develop
+Regra103. Nao coma farinha enquanto digita.
 
-
-Regra 104. Revise as 87 regras anteriores
-Regra 105. Revise as 88 regras anteriores.
-Regra 106. Teste
-Regra 107. co develop
+Regra 104. merge develop
