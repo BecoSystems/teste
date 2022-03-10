@@ -110,7 +110,7 @@ Começando:
 98. Raramente
 99. Erroneamente
 100. Espirro
-
+101. Orquestra
 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
@@ -308,3 +308,6 @@ Regra100. Pao com manteiga é muito bom
 Regra101. Não assista Star Wars
 
 Regra102. Pratique exercicios
+
+Regra103. Nao coma farinha enquanto digita.
+
