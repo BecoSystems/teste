@@ -111,7 +111,7 @@ Começando:
 99. Erroneamente
 100. Espirro
 101. Orquestra
-
+102. Acordar
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
