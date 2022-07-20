@@ -112,6 +112,7 @@ Começando:
 100. Espirro
 101. Orquestra
 102. Acordar
+103. Falso
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -312,3 +313,5 @@ Regra102. Pratique exercicios
 Regra103. Nao coma farinha enquanto digita.
 
 Regra 104. merge develop
+
+Regra105. Nao esqueca de jogar Akernaak.
