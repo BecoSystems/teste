@@ -112,6 +112,7 @@ Começando:
 100. Espirro
 101. Orquestra
 102. Acordar
+103. Falso
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -310,4 +311,6 @@ Regra101. Não assista Star Wars
 Regra102. Pratique exercicios
 
 Regra103. Nao coma farinha enquanto digita.
+
+Regra104. Nao esqueca de jogar Akernaak.
 
