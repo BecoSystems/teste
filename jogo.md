@@ -304,7 +304,7 @@ Regra98. Nao repare na bagunca das ultimas 10 regras.
 
 Regra99. Não é bem uma regra, mais uma dica, brinque com alterações e resoluções de problemas dando commits, é bem legal.
 
-Regra100. Pao com manteiga é muito bom
+Regra100. Pao com manteiga é muito bom.
 
 Regra101. Não assista Star Wars
 
@@ -315,3 +315,6 @@ Regra103. Nao coma farinha enquanto digita.
 Regra 104. merge develop
 
 Regra105. Nao esqueca de jogar Akernaak.
+
+203. git diff --check mostra arquivos com conflitos
+
