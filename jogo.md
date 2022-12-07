@@ -314,3 +314,4 @@ Regra103. Nao coma farinha enquanto digita.
 
 Regra104. Nao esqueca de jogar Akernaak.
 
+Regra105. É terminantemente proibido jogar LOL
