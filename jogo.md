@@ -134,4 +134,209 @@ Começando o jogo:
 101. Orquestra
 102. Acordar
 103. Falso
-104. pneumoultramicroscopicossilicovulcanoconiotico
+104. ovelha
+
+Regra5. Video explicativo no canal DrBeco bavezbukyr
+
+Regra6. Não é permitido voar por mais de 3 minutos.
+
+Regra7. Divirta-se
+
+Regra8. Ao cair pular duas vezes
+
+regra9. Não é permitido usar palavrão
+
+Regra10. A próxima palavra precisa se relacionar com a anterior.
+
+Regra11. É preciso possuir a pedra filosofal para vencer o jogo.
+
+Regra12. O máximo de letras por palavra é 10.
+
+Regra13. Não é permitido palavras compostas.
+
+Regra14. Faça tia Denise pagar.
+
+Regra15. Aproveite o entretenimento!
+
+Regra16. Não esquecer a letra maiuscula no inicio das palavras.
+
+Regra17. video excente
+
+Regra18. Faca o saci andar.
+
+Regra19. Coloque os animes em dia.
+
+Regra20. Hidratem-se. 
+
+Regra21. Passem alcool em gel
+
+Regra22. Use mascara.
+
+Regra23. Evite aglomeracoes.
+
+Regra24. Se alimente adequadamente.
+
+Regra25. se beber não dirija
+
+Regra26. leia todaas as regras
+
+Regra27. Apos escrever a palavra, e preciso dar um mortal para tras.
+
+Regra28. Apos contar ate 10, corra pela.
+
+Regra29. Se possuir a joia do poder, você pode escolher anular uma das regras.
+
+Regra30. Comecar sempre com o pe direito.
+
+Regra31. proibido editar sem antes dar pull.
+
+Regra32. manter distancia de uma linha entre cada regra.
+
+Regra33. Usem a imaginacao.
+
+Regra34. Apenas sorrisos sao permitidos
+
+Regra35. Sempre olhar pra cima antes de dar git push.
+
+Regra36. Seja humilde diante ao lorde Tramunik.
+
+Regra37. Proibido usar drogas oferecidas por estranhos.
+
+Regra38. Proibido deixar um conflito sem solucao.
+
+Regra39. Apos o termino das tarefas, va pular corda.
+
+Regra40. Espere o som da campainha para dar git clone
+
+Regra41. Pare apenas se o sinal estiver vermelho.
+
+Regra42. Respire antes de continuar.
+
+Regra43. Sempre de git pull antes de editar um arquivo.
+
+Regra44. Nao copie a regra do colega
+
+regra45. Nao de ordens aos amigos
+
+Regra46. Nao olhe as regras anteriores ou entao perde.
+
+Regra47. nao use a palavra "nao ".
+
+Regra48. Nunca coloque toalhas molhadas nas janelas.
+
+Regra49. Levante e abaixe antes de pensar.
+
+Regra50. Assista sempre todas as aulas.
+
+Regra51. Uma boa ideia, se for beber me chame.
+
+Regra52. Dormir e' sempre bom.
+
+Regra53. Maratonar suas series e filmes preferidos.
+
+Regra54. Sempre adicione novas regras ao jogo
+
+Regra55. Sempre jogar seus jogos favoritos.
+
+Regra56. Ze Vaqueiro eh muito bom.
+
+Regra57. Estude muito para as cadeiras do semestre.
+
+Regra58. Desconsidere as regras de 5 a 57 e faca apenas as palavras.
+
+Regra59. Siga o oposto da regra 36.
+
+Regra60. VEJA.
+
+Regra61. Nao fazer alteracoes direto no master. Use o develop e depois de merge no master.
+
+Regra62. Nunca ignore a regra 61.
+
+Regra63. Nunca destrua o Hydra.
+
+Regra64. Siga todas as regras de numeracao impar
+
+Regra65. Nunca dê um rm no arquivo makefile!!
+
+Regra66. Lembre-se da palavra magica!
+
+Regra67: nao faça besteira no hydra e sempre der um git pull para fazer alteracao
+
+Regra68. Leia os arquivos do dropbox atentamente.
+
+Regra69. Nunca ignore este jogo.
+
+Regra70. Jogue o dado de 8 faces.
+
+Regra71. Leia Pai rico, pai pobre.
+
+Regra72. Eu quero dizer agora o oposto do que eu disse antes.
+
+Regra73. Leia atentamente as últimas 72 regras
+
+Regra74. Assita Rei Leão
+
+Regra75. Assista Shrek 2.
+
+Regra76. Assista Rei Leão 2.
+
+Regra77. Assista anime enquanto faz atividade no hydra, confie no seu potencial.
+
+Regra78. Jogar minish cap no tempo livre.
+
+Regra79. Alcance a pontuação máxima no akernaak.
+
+Regra80. Sempre que precisar, peça ajuda aos monitores.
+
+Regra81. Vire vegano.
+
+Regra82. Leia um livro, eu sei que você nunca fez isso.
+
+Regra83. Se possivel, leia mais de um.
+
+Regra84. Assista uma série educativa.
+
+Regra85. Estude Inglês.
+
+Regra86. Escute kpop enquanto programa.
+
+Regra87. Assista Procurando Nemo
+
+Regra88. Revise as 87 regras anteriores.
+
+Regra89. Assista e revise o filme Revolution OS.
+
+Regra90. Assista as aulas.
+
+Regra91. Cause conflitos e resolva-os.
+
+Regra92. Assista Monstros S.A.        
+
+Regra93. Revise as 88 regras anteriores.
+
+Regra94. Revise as 89 regras anteriores.
+
+Regra95. Caso o castelo seja vermelho, entre pela porta dos fundos.
+
+Regra96. Faca uma pipoquinha.
+
+Regra97. Nao repare na bagunca das ultimas 15 regras.
+
+Regra98. Nao repare na bagunca das ultimas 10 regras.
+
+Regra99. Não é bem uma regra, mais uma dica, brinque com alterações e resoluções de problemas dando commits, é bem legal.
+
+Regra100. Pao com manteiga é muito bom
+
+Regra101. Não assista Star Wars
+
+Regra102. Pratique exercicios
+
+Regra103. Nao coma farinha enquanto digita.
+
+Regra104. Nao esqueca de jogar Akernaak.
+
+Regra105. É terminantemente proibido jogar LOL
+
+Regra106. Nao coma a cereja da vitoria
+>>>>>>> develop
