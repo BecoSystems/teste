@@ -134,10 +134,10 @@ Começando o jogo:
 101. Orquestra
 102. Acordar
 103. Falso
-<<<<<<< HEAD
-104. pneumoultramicroscopicossilicovulcanoconiotico
-=======
-104. Organismo 
+104. pneumoultramicroscopicossilicovulcanoconiotico Errado! a palavra não segue o intuito do jogo. Ela não começa com a ultima letra da ultima palavra.
+104. Observar 
+105. ovelha
+106. almejar 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -342,4 +342,5 @@ Regra104. Nao esqueca de jogar Akernaak.
 Regra105. É terminantemente proibido jogar LOL
 
 Regra106. Nao coma a cereja da vitoria
->>>>>>> develop
+
+Regra107. Assista pelo menos 1000 episódios de One Piece.
