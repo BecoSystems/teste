@@ -114,6 +114,7 @@ Começando:
 102. Acordar
 103. Falso
 104. ovelha
+105. almejar 
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
