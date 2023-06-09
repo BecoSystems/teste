@@ -115,6 +115,7 @@ Começando:
 103. Falso
 104. ovelha
 105. almejar 
+106. Remo
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
