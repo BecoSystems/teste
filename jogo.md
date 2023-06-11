@@ -354,3 +354,6 @@ Regra107. Assista pelo menos 1000 episódios de One Piece.
 Regra 108. Assista breaking bad
 
 Regra 109 Evite pensamentos suicidas enquanto programa.
+
+Regra 110. Levite.
+
