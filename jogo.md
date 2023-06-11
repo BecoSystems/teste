@@ -134,10 +134,16 @@ Começando o jogo:
 101. Orquestra
 102. Acordar
 103. Falso
+<<<<<<< HEAD
 104. pneumoultramicroscopicossilicovulcanoconiotico Errado! a palavra não segue o intuito do jogo. Ela não começa com a ultima letra da ultima palavra.
 104. Observar 
 105. ovelha
 106. almejar 
+=======
+104. ovelha
+105. almejar 
+106. Remo
+>>>>>>> develop
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -344,3 +350,7 @@ Regra105. É terminantemente proibido jogar LOL
 Regra106. Nao coma a cereja da vitoria
 
 Regra107. Assista pelo menos 1000 episódios de One Piece.
+
+Regra 108. Assista breaking bad
+
+Regra 109 Evite pensamentos suicidas enquanto programa.
