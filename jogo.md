@@ -321,4 +321,6 @@ Regra105. É terminantemente proibido jogar LOL
 
 Regra106. Nao coma a cereja da vitoria
 
-Regra 107. Assista breaking bad.
+Regra 107. Assista breaking bad
+
+Regra 108. Evite pensamentos suicidas enquanto programa.
