@@ -143,8 +143,10 @@ Começando o jogo:
 104. ovelha
 105. almejar 
 106. Remo
->>>>>>> develop
+107. observador
 
+=======
+>>>>>>> develop
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
