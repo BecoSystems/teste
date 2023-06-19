@@ -143,9 +143,14 @@ Começando o jogo:
 104. ovelha
 105. almejar 
 106. Remo
+
 107. observador
 
+
+>>>>>>> develop
 =======
+107. feliz
+108. relacionamento
 >>>>>>> develop
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
