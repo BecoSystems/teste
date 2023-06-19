@@ -118,6 +118,8 @@ Começando:
 106. Remo
 107. feliz
 108. zangado
+109. Brasil
+
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
