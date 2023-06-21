@@ -10,5 +10,5 @@ Just edit, add some trash lines, save, commit, push.
 
 ## The dirty
 
-Here we gooooo....
+Here we gooooo
 
