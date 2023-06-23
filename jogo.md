@@ -55,4 +55,4 @@ Palavra 7: Obrigou (verbo, 3a. pessoa singular do pretérito perfeito do indicat
 Palavra 7: Obrigou (verbo). Errado pela regra 1: não pode repetir classe da palavra anterior (aborrecer/receio ambos verbos).
 Palavra 7: Obrigada (adjetivo simples, derivado).
 Palavra 8: Atenção (substantivo comum, abstrato, semples, primitivo, uniforme feminino sobrecomum, singular, neutro).
-
+Palavra 9: Repositório (substantivo).
