@@ -119,6 +119,7 @@ Começando:
 107. feliz
 108. zangado
 109. Orlando
+110. Ontem
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
