@@ -330,3 +330,5 @@ Regra 107. Assista breaking bad
 Regra 108. Evite pensamentos suicidas enquanto programa.
 
 Regra 109. Levite.
+
+Regra 110. Nunca diga nunca.
