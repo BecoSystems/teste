@@ -120,6 +120,7 @@ Começando:
 108. zangado
 109. Orlando
 110. Ontem
+111. Marisco
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -332,3 +333,5 @@ Regra 108. Evite pensamentos suicidas enquanto programa.
 Regra 109. Levite.
 
 Regra 110. Nunca diga nunca.
+
+Regra 111. Escute um pagodinho enquanto programa, é bom demais.
