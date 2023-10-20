@@ -136,6 +136,7 @@ você deve indicar como no exemplo de erro abaixo:
 109. Orlando
 110. Ontem
 111. Marisco
+112. ordenar
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
