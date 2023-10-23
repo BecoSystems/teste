@@ -122,6 +122,7 @@ Começando:
 110. Ontem
 111. Marisco
 112. ordenar
+113. Ramos
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
