@@ -124,6 +124,7 @@ Começando:
 112. ordenar
 113. Ramos
 114. Saber
+115. Rascunho
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
