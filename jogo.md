@@ -123,6 +123,7 @@ Começando:
 111. Marisco
 112. ordenar
 113. Ramos
+114. Saber
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
