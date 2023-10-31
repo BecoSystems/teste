@@ -125,6 +125,7 @@ Começando:
 113. Ramos
 114. Saber
 115. Rascunho
+116. Ortodoxo
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
