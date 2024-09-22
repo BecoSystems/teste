@@ -126,6 +126,7 @@ Começando:
 114. Saber
 115. Rascunho
 116. Ortodoxo
+117. Ostentar
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -305,7 +306,7 @@ Regra92. Assista Monstros S.A.
 
 Regra93. Revise as 88 regras anteriores.
 
-Regra94. Revise as 89 regras anteriores.
+Regra94. Re vise as 89 regras anteriores.
 
 Regra95. Caso o castelo seja vermelho, entre pela porta dos fundos.
 
@@ -340,3 +341,5 @@ Regra 109. Levite.
 Regra 110. Nunca diga nunca.
 
 Regra 111. Escute um pagodinho enquanto programa, é bom demais.
+
+Regra 112. Vá à Ilha do Retiro sempre que possível.
