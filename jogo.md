@@ -127,6 +127,7 @@ Começando:
 115. Rascunho
 116. Ortodoxo
 117. Ostentar
+118. Radiante
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -343,3 +344,4 @@ Regra 110. Nunca diga nunca.
 Regra 111. Escute um pagodinho enquanto programa, é bom demais.
 
 Regra 112. Vá à Ilha do Retiro sempre que possível.
+
