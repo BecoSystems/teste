@@ -95,7 +95,7 @@ Começando:
 83. empregada
 84. admitiu
 85. util
-86. ler
+86. l er
 87. rato
 88. Odeio
 89. Organizado.
@@ -128,6 +128,7 @@ Começando:
 116. Ortodoxo
 117. Ostentar
 118. Radiante
+119. Esmero
 
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
@@ -344,4 +345,5 @@ Regra 110. Nunca diga nunca.
 Regra 111. Escute um pagodinho enquanto programa, é bom demais.
 
 Regra 112. Vá à Ilha do Retiro sempre que possível.
+
 
