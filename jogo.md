@@ -129,7 +129,7 @@ Começando:
 117. Ostentar
 118. Radiante
 119. Esmero
-
+120. Olhar
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Regra6. Não é permitido voar por mais de 3 minutos.
