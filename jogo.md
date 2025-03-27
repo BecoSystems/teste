@@ -144,7 +144,7 @@ você deve indicar como no exemplo de erro abaixo:
 117. Ostentar
 118. Radiante
 119. Esmero
-
+120. Olhar
 Regra5. Video explicativo no canal DrBeco bavezbukyr
 
 Você chega e o jogo está assim:
